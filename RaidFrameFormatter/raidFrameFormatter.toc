@@ -1,0 +1,6 @@
+## Interface: 90005
+## Title: raidFrameFormatter
+## Author: Mbk
+## Notes: Formats raidframes
+## Version: 1.0.0
+raidFrameFormatter.lua
